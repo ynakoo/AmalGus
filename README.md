@@ -1,6 +1,7 @@
 # AmalGus — Smart Product Discovery & Matching
 
 AmalGus is a prototype B2B marketplace application for the glass industry, featuring **semantic search** to match natural-language buyer queries against a product catalog using AI.
+# Demo Video Url - https://drive.google.com/file/d/1a_A7sHyRA__n4G5HondJKOjmnyF0O8Yb/view?usp=sharing
 
 ## Project Structure
 
