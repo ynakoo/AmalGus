@@ -51,7 +51,7 @@ PRODUCTS = [
         },
         "supplier": "SafeGlass Industries",
         "price": 85.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/01ff3a6ced172f4f320a2a23bd150ff75d3e37b9.jpg",
         "description": (
             "High-strength tempered glass panel ideal for frameless shower enclosures, "
             "glass partitions, and balustrades. Meets EN 12150 safety standards. "
@@ -71,7 +71,7 @@ PRODUCTS = [
         },
         "supplier": "VitroShield Corp",
         "price": 62.50,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/b92f7bca250b7c5b92e2341c2912bda8e7e5470a.jpg",
         "description": (
             "PVB-interlayer laminated glass offering excellent sound insulation and "
             "UV protection. Suitable for skylights, overhead glazing, and hurricane-prone "
@@ -91,7 +91,7 @@ PRODUCTS = [
         },
         "supplier": "EcoGlaze Systems",
         "price": 120.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/30de73c1f0f2d9bf64b4a8770b8d1b39c124bf44.jpg",
         "description": (
             "Double-pane insulated glass unit with argon-filled cavity for superior "
             "thermal insulation. Reduces HVAC costs by up to 30%. Ideal for energy-"
@@ -111,7 +111,7 @@ PRODUCTS = [
         },
         "supplier": "CrystalFlat Glass Ltd",
         "price": 28.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/234d2be96c0e072e9127ffac4200440a366f71b3.jpg",
         "description": (
             "Standard clear float glass with excellent optical clarity. Raw material "
             "for further processing — tempering, laminating, or silvering. Suitable "
@@ -131,7 +131,7 @@ PRODUCTS = [
         },
         "supplier": "MetalCraft Solutions",
         "price": 145.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/269d419ed26bade35f3cb0cf45a74e20b3228808.jpg",
         "description": (
             "Premium aluminium sliding door track-and-roller system with soft-close "
             "mechanism. Supports glass panels up to 120 kg. Corrosion-resistant "
@@ -151,7 +151,7 @@ PRODUCTS = [
         },
         "supplier": "ArtGlass Décor",
         "price": 72.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/f3827e566ee0eb45effd2e52aaf67e96f0d7ded6.jpg",
         "description": (
             "Acid-etched glass providing a satin-smooth translucent finish for privacy "
             "without sacrificing light transmission. Popular for office partitions, "
@@ -171,7 +171,7 @@ PRODUCTS = [
         },
         "supplier": "CrystalFlat Glass Ltd",
         "price": 35.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/7cd4db693b6c35a743c391aa47c8a3e24001f0c2.jpg",
         "description": (
             "Body-tinted float glass in Euro Grey that reduces solar heat gain and "
             "glare. Ideal for commercial facades, spandrel panels, and automotive "
@@ -191,7 +191,7 @@ PRODUCTS = [
         },
         "supplier": "ReflectPro Industries",
         "price": 42.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/9c5e0aac19833390a6ed6bea281ebc56e3f206ba.jpg",
         "description": (
             "High-definition silver mirror with copper-backed moisture protection. "
             "Suitable for bathrooms, wardrobes, gyms, and commercial interiors. "
@@ -211,7 +211,7 @@ PRODUCTS = [
         },
         "supplier": "MetalCraft Solutions",
         "price": 210.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/b20b3fb64bb924349185fa0219d34c2256043705.jpg",
         "description": (
             "Structural aluminium mullion profile for unitized curtain wall systems. "
             "PVDF coating ensures weather resistance for 25+ years. Thermally broken "
@@ -231,7 +231,7 @@ PRODUCTS = [
         },
         "supplier": "SafeGlass Industries",
         "price": 55.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/868a8bd002f4345b55c166306330d84559715a1c.jpg",
         "description": (
             "Wire-reinforced safety glass rated for 60-minute fire resistance. "
             "Prevents flame and smoke passage. Used in fire-rated doors, windows, "
@@ -251,7 +251,7 @@ PRODUCTS = [
         },
         "supplier": "ArtGlass Décor",
         "price": 68.00,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/850084f725b82288c2e9e86475a1dce7f791d2b0.jpg",
         "description": (
             "Back-painted lacquered glass in Pure White, perfect for kitchen "
             "backsplashes, feature walls, and cladding. Scratch-resistant baked "
@@ -271,7 +271,7 @@ PRODUCTS = [
         },
         "supplier": "BondTech Chemicals",
         "price": 18.50,
-        "image_url": "",
+        "image_url": "https://pplx-res.cloudinary.com/image/upload/pplx_search_images/6266f0bf5e296a833795df1df66137f2f3c86867.jpg",
         "description": (
             "Two-part silicone structural glazing sealant for bonding glass to "
             "aluminium frames in curtain wall and structural glazing systems. "
